@@ -1,0 +1,55 @@
+{
+    "juices": [
+      {
+        "id": 0,
+        "name": "Vampiro",
+        "restaurant": "Cancun juice",
+        "web": "www.cancunjuice.com",
+        "description": "Refreshing",
+        "ingredients": [
+          "carrot",
+          "beet",
+          "celery",
+          "orange",
+          "strawberry",
+          "banana",
+          "cantaloupe",
+          "apple",
+          "pineapple"
+        ],
+        "addresses": [
+          {
+            "addressId": 0,
+            "number": "2200",
+            "Street": "Harbor Blvd",
+            "City": "Costa Mesa",
+            "zipCode": "92627",
+            "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Aura",
+        "restaurant": "Zumeria",
+        "web": "NA",
+        "description": "Zuma",
+        "ingredients": [
+          "watermelon",
+          "pineapple",
+          "mint",
+          "cucumber"
+        ],
+        "addresses": [
+          {
+            "addressId": 0,
+            "number": "170",
+            "Street": "Monterrey",
+            "City": "Roma Norte CDMX",
+            "zipCode": "06700",
+            "country": "Mexico"
+          }
+        ]
+      }
+    ]
+  }
