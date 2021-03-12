@@ -5,7 +5,7 @@ To access and modify resources, you can make:
 
 GET POST PUT PATCH DELETE etc
 
-Heroku live visit [here]{https://my-fav-juices-api.herokuapp.com/}
+Heroku live visit [here](https://my-fav-juices-api.herokuapp.com/)
  
 Fetch
 ```
